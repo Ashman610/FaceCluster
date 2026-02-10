@@ -45,7 +45,7 @@ This concept is applicable to many domains:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/YourUsername/FaceCluster.git](https://github.com/YourUsername/FaceCluster.git)
+    git clone [https://github.com/Muhammad-Hassan12/FaceCluster.git](https://github.com/Muhammad-Hassan12/FaceCluster.git)
     cd FaceCluster
     ```
 
