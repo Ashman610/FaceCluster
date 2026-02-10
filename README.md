@@ -62,7 +62,7 @@ This concept is applicable to many domains:
 ---
 
 ## 🧐 Requirments
-**Python 3.10+ (can possible run in older versions!):**
+**Python 3.10+ (can possible run on older versions!):**
 * numpy
 * DBSCAN (sklearn.cluster)
 * open_cv
